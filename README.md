@@ -323,7 +323,6 @@ CF-Navs/
 
 以上说明用于帮助用户识别衍生版本；具体许可权利和义务以 [LICENSE](LICENSE) 为准。
 
-<!-- 爱发电赞助区 (折叠卡片) -->
 <hr>
 
 <div align="center">
